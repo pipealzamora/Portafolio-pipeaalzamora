@@ -7,22 +7,22 @@ const Projects = () => {
       className="flex flex-col items-center justify-center py-20"
       id="projects"
     >
-      <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
+      <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-red-500 py-20">
         Mis Proyectos
       </h1>
       <div className="h-full w-full justify-center flex flex-col md:flex-row gap-10 px-10 z-[50]">
-        <a href="https://electricautomaticchile.com" >
+        <a href="https://localhost/" >
           <ProjectCard
-            src=""
+            src="/electric.png"
             title="Electricautomaticchile"
             description="Automatización en electricidad"
           />
         </a>
-        <a href="https://fundacionalzamora.org" >
+        <a href="https://localhost/" >
           <ProjectCard
-            src=""
+            src="/electric.png"
             title="Fundación Alzamora"
-            description="Sin fines de lucros y ayuda a la comunidad"
+            description="Sin fines de lucro"
           />
         </a>
       </div>
