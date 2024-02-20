@@ -13,14 +13,14 @@ const Projects = () => {
       <div className="h-full w-full justify-center flex flex-col md:flex-row gap-10 px-10 z-[50]">
         <a href="https://localhost/" >
           <ProjectCard
-            src="/electric.png"
+            src="/coming-soon.png"
             title="Electricautomaticchile"
             description="Automatización en electricidad"
           />
         </a>
         <a href="https://localhost/" >
           <ProjectCard
-            src="/electric.png"
+            src="/coming-soon.png"
             title="Fundación Alzamora"
             description="Sin fines de lucro"
           />
