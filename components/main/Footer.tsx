@@ -1,7 +1,7 @@
 import React from "react";
 import {
   RxGithubLogo,
-  RxInstagramLogo,
+  RxEnvelopeClosed,
   RxLinkedinLogo,
 } from "react-icons/rx";
 
@@ -14,8 +14,8 @@ const Footer = () => {
                 <div className="font-bold text-[16px]">Redes Sociales</div>
                 <div className="flex flex-row  ">
                     <p className="flex flex-row items-center my-[15px] px-1 cursor-pointer">
-                        <RxInstagramLogo />
-                        <a href="https://www.instagram.com/pipealzamora" target="_blank" className="text-[15px] ml-[6px] z-[50]" >Instagram</a>
+                        <RxEnvelopeClosed />
+                        <a href="mailto:pipeaalzamora@gmail.com" target="_blank" className="text-[15px] ml-[6px] z-[50]" >Correo electronico</a>
                     </p>
                      <p className="flex flex-row items-center my-[15px] px-10 cursor-pointer">
                         <RxGithubLogo />
