@@ -1,4 +1,4 @@
-// File: /home/pipeaalzamora/Documentos/Portafolio/app/layout.tsx
+// File: /home/pipeaalzamora/Documentos/Portafolio-pipeaalzamora/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
