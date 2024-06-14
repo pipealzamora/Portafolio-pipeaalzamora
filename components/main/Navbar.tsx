@@ -23,7 +23,7 @@ const Navbar = () => {
                         <a href="#projects" className="cursor-pointer">
                             Proyectos
                         </a>
-                        <Link href="/pages">blog</Link>
+                        <a href="https://pipe-notion-six.vercel.app/">Blog</a>
                     </div>
                 </div>
                 
