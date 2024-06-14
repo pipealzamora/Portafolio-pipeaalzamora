@@ -1,7 +1,6 @@
 "use client";
-
 import React from "react";
-
+import Link from "next/link";
 const Navbar = () => {
     return (
         <div className="w-full h-[75px] fixed top-0 shadow-lg items-center bg-[#03001417] backdrop-blur-md z-50 px-1">
@@ -24,6 +23,7 @@ const Navbar = () => {
                         <a href="#projects" className="cursor-pointer">
                             Proyectos
                         </a>
+                        <a href="https://pipe-notion-six.vercel.app/">Blog</a>
                     </div>
                 </div>
                 
