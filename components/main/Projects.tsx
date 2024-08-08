@@ -11,7 +11,7 @@ const Projects = () => {
         Mis Proyectos
       </h1>
       <div className="h-full w-full justify-center flex flex-col md:flex-row gap-10 px-10 z-[50]">
-        <a href="https://localhost/" >
+        <a href="https://main.d31trp39fgtk7e.amplifyapp.com/" >
           <ProjectCard
             src="/startup.png"
             title="Electricautomaticchile"
