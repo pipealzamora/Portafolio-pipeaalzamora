@@ -33,12 +33,12 @@ const HeroContent = () => {
                     className="flex flex-col gap-6 mt-6 text-4xl font-bold text-white max-w-[600px] w-auto h-auto"
                 >
                   <span>
-                  Proporcionar
+                    El mejor
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-red-500">
                       {" "}
-                      la mejor{" "}
+                      aprendizaje{" "}
                     </span>
-                    experiencia en proyectos
+                    te la dan los errores.
                   </span>
                 </motion.div>
 
@@ -46,9 +46,10 @@ const HeroContent = () => {
                     variants={slideInFromLeft(0.8)}
                     className="text-lg text-gray-400 my-5 max-w-[600px]"
                 >
-                   Soy un profesional con experiencia en desarrollo de software web y movil, Automatización en servicios, administración, soporte técnico.
+                   Hola que tal me presento soy Felipe Aros, un desarrollador de software independiente,que en estos momentos estoy creando mi startup de automatización en electricidad, tambien trabaje como desarrollador de software y soporte técnico en otras empresas.
+
                 </motion.p>
-              
+
             </div>
 
             <motion.div
