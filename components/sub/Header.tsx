@@ -38,7 +38,7 @@ const HeroContent = () => {
                       {" "}
                       aprendizaje{" "}
                     </span>
-                    te la dan los errores.
+                    te lo dan los errores.
                   </span>
                 </motion.div>
 
