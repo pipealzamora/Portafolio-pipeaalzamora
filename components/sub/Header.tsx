@@ -30,7 +30,7 @@ const HeroContent = () => {
 
                 <motion.div
                     variants={slideInFromLeft(0.5)}
-                    className="flex flex-col gap-6 mt-6 text-4xl font-bold text-white max-w-[600px] w-auto h-auto"
+                    className="flex flex-col text-4xl font-bold text-white max-w-[600px] w-auto h-auto"
                 >
                   <span>
                     El mejor
@@ -44,8 +44,7 @@ const HeroContent = () => {
 
                 <motion.p
                     variants={slideInFromLeft(0.8)}
-                    className="text-lg text-gray-400 my-5 max-w-[600px]"
-                >
+                    className="text-lg text-white my-11 max-w-[600px]  " >
                    Hola que tal me presento soy Felipe Aros, un desarrollador de software independiente,que en estos momentos estoy creando mi startup de automatización en electricidad, tambien trabaje como desarrollador de software y soporte técnico en otras empresas.
 
                 </motion.p>
